@@ -1,4 +1,3 @@
-```markdown
 # europorra_tipstertrust
 
 Este es el repositorio del proyecto `europorra_tipstertrust`, una aplicación en Python que utiliza PostgreSQL para la base de datos y Telegram para la interfaz de usuario. 
@@ -74,14 +73,3 @@ Las contribuciones son bienvenidas. Por favor, realiza un fork del repositorio, 
 
 Este proyecto está licenciado bajo los términos de la licencia MIT.
 ```
-
-### Archivo `requirements.txt`
-
-Asegúrate de incluir las siguientes líneas en tu archivo `requirements.txt`:
-
-```
-python-telegram-bot==13.7
-SQLAlchemy==1.4.20
-```
-
-Esto instalará las versiones específicas necesarias para el correcto funcionamiento del proyecto.
