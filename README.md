@@ -128,4 +128,3 @@ Las contribuciones son bienvenidas. Por favor, realiza un fork del repositorio, 
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la licencia MIT.
-```
